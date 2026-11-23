@@ -41,11 +41,11 @@ const hamaz = {
 };
 ```
 
-- 🌱 Currently learning and improving my development skills
-- 💻 Building full-stack web applications
-- 🧠 Practicing problem-solving and DSA
-- 🚀 Exploring new technologies and creating projects
-- 🎯 Focused on writing clean, useful, and maintainable code
+- 💻 Full Stack Developer passionate about building web applications
+- 🌱 Continuously learning and expanding my technical skills
+- 🧠 Improving problem-solving skills through Data Structures & Algorithms
+- 🚀 Exploring new technologies and working on real-world projects
+- 🎯 Focused on writing clean, efficient, and maintainable code
 
 ---
 
