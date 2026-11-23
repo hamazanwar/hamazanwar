@@ -24,7 +24,7 @@
 
 ---
 
-## `whoami`
+## `Who am I`
 
 ```javascript
 const hamaz = {
@@ -49,7 +49,7 @@ const hamaz = {
 
 ---
 
-## `tech_stack`
+## `Tech stack`
 
 <div align="center">
 
@@ -77,7 +77,7 @@ const hamaz = {
 
 ---
 
-## `github_stats`
+## `github status`
 
 <div align="center">
 
@@ -93,7 +93,7 @@ const hamaz = {
 
 ---
 
-## `contribution_activity`
+## `Contribution activity`
 
 <div align="center">
 
@@ -103,7 +103,7 @@ const hamaz = {
 
 ---
 
-## `contribution_snake`
+## `Contribution snake`
 
 <div align="center">
 
