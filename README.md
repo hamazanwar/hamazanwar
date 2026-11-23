@@ -29,7 +29,7 @@
 ```javascript
 const hamaz = {
     role: "Full Stack Developer",
-    location: "Kerala, India",
+    location: "Malappuram, Kerala, India",
 
     currentlyLearning: [
         "Data Structures & Algorithms",
