@@ -13,10 +13,10 @@
 <a href="https://github.com/hamazanwar">
   <img src="https://img.shields.io/badge/GitHub-08090B?style=for-the-badge&logo=github&logoColor=CDF22B" />
 </a>
-<a href="https://linkedin.com/">
+<a href="https://www.linkedin.com/in/hamaz-anwar-kk">
   <img src="https://img.shields.io/badge/LinkedIn-08090B?style=for-the-badge&logo=linkedin&logoColor=CDF22B" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:hamazanwar2007@gmail.com">
   <img src="https://img.shields.io/badge/Email-08090B?style=for-the-badge&logo=gmail&logoColor=CDF22B" />
 </a>
 
