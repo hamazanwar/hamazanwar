@@ -53,17 +53,25 @@ const hamaz = {
 
 <div align="center">
 
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark" />
+
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
 
 ### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 
-### Tools
+### Cloud & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+
+### Tools & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode&theme=dark" />
 
 </div>
 
