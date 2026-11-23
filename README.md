@@ -30,13 +30,28 @@
 const hamaz = {
     role: "Full Stack Developer",
     location: "Kerala, India",
-    currentlyLearning: ["Data Structures & Algorithms", "Full Stack Development"],
+
+    currentlyLearning: [
+        "Data Structures & Algorithms",
+        "Problem Solving",
+        "Full Stack Development"
+    ],
+
     technologies: {
-        frontend: ["HTML", "CSS", "JavaScript", "React"],
+        languages: ["C", "C++", "Java", "JavaScript"],
+        frontend: ["HTML", "CSS", "React"],
         backend: ["Node.js", "Express.js"],
         database: ["MongoDB"],
-        tools: ["Git", "GitHub", "Postman"]
+        cloud: ["AWS"],
+        tools: ["Git", "GitHub", "Figma", "Postman"]
     },
+
+    interests: [
+        "Building web applications",
+        "Exploring new technologies",
+        "Writing clean and maintainable code"
+    ],
+
     goal: "Turning ideas into meaningful digital experiences."
 };
 ```
