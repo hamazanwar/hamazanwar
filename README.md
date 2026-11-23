@@ -59,7 +59,7 @@ const hamaz = {
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
 
 ### Backend & Database
 
